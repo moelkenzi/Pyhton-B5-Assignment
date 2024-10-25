@@ -1,4 +1,4 @@
-##### Python-For-B5 SNU
+##### Python-For-B5-Ass-01
 
 # 🌟 Excited to Share My Python Journey! 
 
